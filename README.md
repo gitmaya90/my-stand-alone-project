@@ -1,0 +1,1 @@
+# my-stand-alone-project
